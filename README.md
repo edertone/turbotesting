@@ -4,10 +4,6 @@ This library tries to help developers to write automated tests for their project
 
 It is a library that uses the same methods and classes across all the implemented languages, so we can work the same way when switching between different projects or technologies.
 
-### Documentation
-
-**A detailed code specification is available online. You can check it [here](https://turboframework.org/en/libs/turbotesting)**
-
 ### How to use it
 
 - Php:
